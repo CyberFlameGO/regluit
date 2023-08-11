@@ -52,7 +52,7 @@ kombu==4.6.10
 lxml>=4.6.2
 mailchimp3==3.0.14
 markupsafe==2.0.1
-mechanize==0.4.5
+mechanize==0.4.6
 mock==2.0.0
 mysqlclient==1.4.6
 oauth2==1.9.0.post1
